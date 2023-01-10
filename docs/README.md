@@ -1,4 +1,4 @@
-# Diagramation-template component (*Custom App*)
+# Department search component (*Custom App*)
 This search field will help you make quick purchases by showing up the products that matches your interests as you type some key words.
 
 ![Department Search]()
